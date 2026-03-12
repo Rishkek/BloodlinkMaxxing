@@ -1,0 +1,56 @@
+# 🗺️ LOCAL HOSPITAL MAP - QUICK START
+
+## One-Line Start
+
+```bash
+cd health-frontend && npm run dev
+```
+
+Then: `http://localhost:5173`
+
+## What You Get
+
+✅ **136 hospitals** on map  
+✅ **Green ✔ icons** for each  
+✅ **Click markers** to see details  
+✅ **No backend needed**  
+✅ **Works offline**  
+✅ **Fast loading**  
+
+## That's Literally It!
+
+No Flask. No database. No API. Just:
+
+```bash
+npm run dev
+```
+
+And boom 💥 - map with all hospitals from hospitals_exported.csv
+
+## Files
+
+| File | What it does |
+|------|-------------|
+| `EmsDiversionMap.jsx` | Displays the map |
+| `hospitalsData.js` | 136 hospitals data |
+| `vite.config.js` | Dev server config |
+
+## No More
+
+❌ Flask backend  
+❌ API calls  
+❌ Failed to fetch  
+❌ CORS errors  
+❌ Network issues  
+
+## Yes Now
+
+✅ Local data  
+✅ Instant rendering  
+✅ No dependencies  
+✅ Works everywhere  
+✅ Super fast  
+
+---
+
+**Run it. Enjoy it. Done!** 🎉
